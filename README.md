@@ -1,5 +1,5 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+Recipe for sandwich 
 
-we created repository 
-we used git bash
+1. Take two bread
+2. put all of your ingredients in betwenn the two bread slices
+***Cut sandwich in half and enjoy***
